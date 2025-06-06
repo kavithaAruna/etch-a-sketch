@@ -1,0 +1,1 @@
+etch a sketch is a sketch pad that will accepts frame size from user and draws something through hover
